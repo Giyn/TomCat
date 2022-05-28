@@ -47,6 +47,7 @@
 		84BDD41B28429E2E000011D1 = {
 			isa = PBXGroup;
 			children = (
+				84BDD44128429F7D000011D1 /* README.md */,
 				84BDD42628429E2E000011D1 /* TomCat */,
 				84BDD42528429E2E000011D1 /* Products */,
 			);
@@ -74,7 +75,6 @@
 				84BDD43528429E32000011D1 /* LaunchScreen.storyboard */,
 				84BDD43828429E32000011D1 /* Info.plist */,
 				84BDD43928429E32000011D1 /* main.m */,
-				84BDD44128429F7D000011D1 /* README.md */,
 			);
 			path = TomCat;
 			sourceTree = "<group>";
